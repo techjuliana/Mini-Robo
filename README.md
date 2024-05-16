@@ -4,6 +4,14 @@ TIA MACKENZIE: 20501994
 ## Descrição
 Este repositório contém o desenvolvimento de um mini robô conectado à Internet das Coisas (IoT), projetado para auxiliar na realização de tarefas domésticas, como pegar objetos. O projeto integra várias plataformas de desenvolvimento, sensores, atuadores e impressões 3D para criar um robô versátil e inteligente. A aplicação deste robô pode melhorar o bem-estar e a qualidade de vida dos usuários, especialmente aqueles com dificuldades de mobilidade.
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/techjuliana/Mini-Robo/master/images/1.jpg" alt="Imagem 1" width="30%" style="margin-right: 30px">
+  <img src="https://raw.githubusercontent.com/techjuliana/Mini-Robo/master/images/2.jpg" alt="Imagem 2" width="30%" style="margin-right: 30px">
+  <img src="https://raw.githubusercontent.com/techjuliana/Mini-Robo/master/images/3.jpg" alt="Imagem 3" width="30%" style="margin-right: 30px">
+</p>
+
+
 ## Vídeo-demonstração do funcionamento com MQTT
 <a href="https://www.youtube.com/watch?v=yo9W-R0bA5Q&t=499s" target="_blank">Vídeo do unboxing no meu canal do YouTube, detalhando como foi a construção do robô, os desafios e a configuração, passo a passo com o funcionamento</a> 
 
